@@ -1,2 +1,7 @@
-# Practicando_Spring-Boot_Challenge_Literalura
-Challenge 
+# literalura
+Practicando Spring Boot: Challenge Literalura
+
+- Estado: Finalizado
+
+## Autor: 
+Juan Manuel Pascual Navarro
